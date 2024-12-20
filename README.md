@@ -34,11 +34,11 @@ Visa Navigator simplifies the process of checking visa requirements, applying on
 ### Client Side
 1. Clone the repository:
    ```bash
-   git clone https://github.com/programming-hero-web-course2/b10-a10-client-side-jubayer98.git
+   git clone [https://github.com/programming-hero-web-course2/b10-a10-client-side-jubayer98.git](https://github.com/jubayer98/ReactJS-MongoDB-Firebase-Basic.git)
    ```
 2. Navigate to the project directory:
    ```bash
-   cd b10-a10-client-side-jubayer98
+   cd client-side
    ```
 3. Install dependencies
 4. Start the development server
@@ -47,11 +47,11 @@ Visa Navigator simplifies the process of checking visa requirements, applying on
 ### Server Side
 1. Clone the repository:
    ```bash
-   git clone https://github.com/programming-hero-web-course2/b10-a10-server-side-jubayer98.git
+   git clone [https://github.com/programming-hero-web-course2/b10-a10-server-side-jubayer98.git](https://github.com/jubayer98/ReactJS-MongoDB-Firebase-Basic.git)
    ```
 2. Navigate to the project directory:
    ```bash
-   cd b10-a10-server-side-jubayer98
+   cd server-side
    ```
 3. Install dependencies
    ```
