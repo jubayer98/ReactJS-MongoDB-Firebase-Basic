@@ -53,7 +53,6 @@ Visa Navigator simplifies the process of checking visa requirements, applying on
    cd server-side
    ```
 3. Install dependencies
-   ```
 4. Set up environment variables:
    - Create a `.env` file and add your MongoDB credentials.
 5. Start the server
